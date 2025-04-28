@@ -1,4 +1,4 @@
-FROM ghcr.io/parkervcp/steamcmd:proton
+FROM scottyhardy/docker-wine
 
 LABEL version="1.0" \
       maintainer="Karorogunso" \
